@@ -1,14 +1,14 @@
 {
-  "name": "crypto-bip44",
+  "name": "leprecoin",
   "version": "0.1.0",
-  "description": "BIP44 Address management for ton of coin",
+  "description": "bitcoin Address management for a ton of coin",
   "main": "index.js",
   "scripts": {
     "test": "mocha test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bigmeech/crypto-bip44.git"
+    "url": "git+https://github.com/bigmeech/leprecoin.git"
   },
   "keywords": [
     "bitcoin",
@@ -18,13 +18,14 @@
   "author": "Larry Eliemenye",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bigmeech/crypto-bip44/issues"
+    "url": "https://github.com/bigmeech/leprecoin/issues"
   },
-  "homepage": "https://github.com/bigmeech/crypto-bip44#readme",
+  "homepage": "https://github.com/bigmeech/leprecoin#readme",
   "dependencies": {
     "base58check": "^2.0.0",
     "ripemd160": "^2.0.1",
     "secp256k1": "^3.5.0",
     "secure-random": "^1.1.1"
-  }
+  },
+  "devDependencies": {}
 }
