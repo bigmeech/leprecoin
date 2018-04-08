@@ -1,1 +1,1 @@
-all coin address management basd on BIP44
+Bitcoin address management for a ton of coins
